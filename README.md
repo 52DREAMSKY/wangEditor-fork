@@ -10,11 +10,3 @@
 - [demo](https://www.wangeditor.com/demo/)
 
 ![](./docs/images/editor.png)
-
-## 交流
-
-- [讨论问题和建议](https://github.com/wangeditor-team/wangEditor/issues)
-
-## 捐赠
-
-支持 wangEditor 开源工作 https://opencollective.com/wangeditor
